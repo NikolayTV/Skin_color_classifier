@@ -1,5 +1,6 @@
 # Skin-color extraction and classification
 This programm allow you to extract skin color from face and classify it to the arbitraty number of clusters
+It was done as a part of my studies in London in 2019
 
 ## The pipeline of my method may be divided into four primary segments: 
 * 1) Face detection - obtaining bounding box around the face.
